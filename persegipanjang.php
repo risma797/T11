@@ -11,7 +11,6 @@ class Persegi_Panjang
     $this->lebar = $lebar;
   }
 
-  
   public function hitungLuas()
   {
     return $this->panjang * $this->lebar;
